@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 1
+    },
+    {
+      "id": 2,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 3,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 4,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 5,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 6,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 7,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 8,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 9,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 10,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 11,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    },
+    {
+      "id": 12,
+      "url": "id123456789",
+      "name": "Eva Zelenovskaya",
+      "img": "/img/temp/teacher.jpg",
+      "address": "Russia, Tomsk",
+      "age": "27 years",
+      "rate": 4,
+      "reviews": 4
+    }
+  ]
+}

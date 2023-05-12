@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "link": "#",
+      "img": "/img/social/Facebook.png"
+    },
+    {
+      "link": "#",
+      "img": "/img/social/VK.png"
+    },
+    {
+      "link": "#",
+      "img": "/img/social/OK.png"
+    },
+    {
+      "link": "#",
+      "img": "/img/social/Twitter.png"
+    },
+    {
+      "link": "#",
+      "img": "/img/social/Google.png"
+    }
+  ]
+}

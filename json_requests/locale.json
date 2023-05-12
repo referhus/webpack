@@ -1,0 +1,17 @@
+{
+  "items":[
+    {"label":"Rus","value":""},
+    {"label":"Eng","value":"en"}
+  ],
+  "_links":{
+    "self":{
+      "href":"http://api.igetsmart.localhost/locale.json?page=1"
+    }
+  },
+  "_meta":{
+    "totalCount":2,
+    "pageCount":1,
+    "currentPage":1,
+    "perPage":20
+  }
+}

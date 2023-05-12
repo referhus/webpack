@@ -1,0 +1,216 @@
+{
+  "header": {
+    "logo": "Hey, Newton!",
+    "logoSub": "Online lessons for all occasions",
+    "create": "Create a lesson",
+    "registration": "Register",
+    "auth": "Sign in",
+    "menu_1": "Personal area",
+    "menu_2": "I'm learning",
+    "menu_3": "I study",
+    "menu_4": "Finance",
+    "menu_5": "Documents",
+    "menu_6": "Personal data",
+    "menu_7": "Settings",
+    "menu_8": "Sign out",
+    "menu_9": "Lessons, courses and counseling",
+    "menu_10": "About service",
+    "menu_11": "Articles",
+    "menu_12": "FAQ",
+    "menu_13": "Contacts",
+    "menu_14": "Black list"
+  },
+  "footer": {
+    "menu_1": "About service",
+    "menu_2": "Service rules",
+    "menu_3": "FAQ",
+    "menu_4": "Contacts",
+    "copyright": "Hey, Newton!"
+  },
+  "load": {
+    "title": "Hey, Newton!",
+    "load": "Loading"
+  },
+  "callback": {
+    "title": "Feedback",
+    "textTitle": "Your message",
+    "emailTitle": "Email",
+    "emailHint": "We will send the answer to the specified email",
+    "personalData_1": "I agree with",
+    "personalData_2": "personal data processing rules",
+    "personalData_3": "and",
+    "personalData_4": "user agreement",
+    "btn": "Send",
+    "msgSuccess": "Ваше сообщение отправлено администратору"
+  },
+  "banner":{
+    "title": "Заказать рекламу",
+    "text": "Текст формы заказа рекламы",
+    "type": "Тип рекламы",
+    "typePlaceholder": "Выберите из списка",
+    "link": "Ссылка на рекламный материал",
+    "linkPlaceholder": "Введите ссылку",
+    "file": "Загрузите изображение баннера",
+    "fileSub": "Рекомендуем предварительно подготовить фотографию: размер 256×256 пикселей, форматы jpg, png",
+    "filePlaceholder": "Загрузить изображение",
+    "comment": "Комментарий",
+    "commentPlaceholder": "Начните вводить",
+    "btn": "Закзать",
+    "cancell": "Отмена"
+  },
+  "createDialog": {
+    "title": "New group chat",
+    "inputTitle_1": "Chat name",
+    "inputTitle_2": "User link for add user",
+    "inputTitle_3": "Add user from yur contacts",
+    "btn": "Create group chat"
+  },
+  "addNewUsersDialog" : {
+    "title": "Add user",
+    "btn": "Add"
+  },
+  "addNewUsersLink": {
+    "title":"Add new user by link",
+    "errorMsg": "User not found"
+  },
+  "renameDialog" : {
+    "title": "Rename chat",
+    "inputTitle_1": "New name",
+    "btn": "Rename",
+    "msgSuccess": "Rename nessage"
+  },
+  "removeDialog": {
+    "title": "Remove group chat",
+    "text": "Are you shure of delete",
+    "btnChancel": "Chancel",
+    "btn": "Delete"
+  },
+  "leaveDialog": {
+    "title": "Leave group chat",
+    "text": "Are you shure of leave",
+    "btnChancel": "Chancel",
+    "btn": "Leave"
+  },
+  "report": {
+    "title": "Сообщить о нарушениях",
+    "textTitle": "Ваше сообщение",
+    "buttonTitle": "Отправить",
+    "personalData_1": "Я согласен с",
+    "personalData_2": "правилами обработки персональных данных",
+    "personalData_3": "и",
+    "personalData_4": "пользовательским соглашением",
+    "msgSuccess": "Ваше сообщение отправлено администратору"
+  },
+  "invite": {
+    "title": "Invite a friend",
+    "textTitle": "Message",
+    "emailTitle": "Friend's email",
+    "emailHint": "We will send the answer to the specified email",
+    "personalData_1": "I agree with",
+    "personalData_2": "personal data processing rules",
+    "personalData_3": "and",
+    "personalData_4": "user agreement",
+    "btn": "Send",
+    "dateBtn": "Change date and time",
+    "msgSuccess": "Приглашение отправлено"
+  },
+  "signUp": {
+    "enrollTitle": "Register to class",
+    "firstLesson": "First lesson in",
+    "enrollBtn": "Sign up for",
+    "setNewDate": "Choose another date",
+    "msgSetTime": "Choose a time",
+    "applicationSubmitted": "Application submitted"
+  },
+  "promo": {
+    "title": "Activate code",
+    "label": "Enter code",
+    "btn": "Activate",
+    "msg": "Code activated"
+  },
+  "auth": {
+    "title": "Sign in",
+    "passwordReset": "Restore password",
+    "signIn": "Sign in",
+    "registration": "Register",
+    "email": "Email",
+    "password": "Password"
+  },
+  "registration": {
+    "title": "Register",
+    "personalData_1": "I agree with",
+    "personalData_2": "personal data processing rules",
+    "personalData_3": ", ",
+    "personalData_4": "user agreement",
+    "personalData_5": "and",
+    "personalData_6": "offer",
+    "registration": "Register",
+    "notActivated": "your Email not activated",
+    "notActivatedBtn": "send new email message",
+    "auth": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "passwordPlaceholder": "At least 8 characters",
+    "passwordError": "The password must contain at least 8 characters and consist of only Latin letters, numbers and underscores"
+  },
+  "passwordReset": {
+    "title": "Password reset",
+    "hint": "Specify the address to which the account is registered - we will send an email with instructions",
+    "btnOk": "Start recovery",
+    "btnCancel": "Back to sign in",
+    "email": "Email",
+    "msg": "An email has been sent to your email with instructions."
+  },
+  "search": {
+    "filterTitle": "Filter",
+    "filterBtn": "Apply filter",
+    "filterClear": "Show all",
+    "sort_1": "by date",
+    "sort_2": "by popularity",
+    "sort_3": "by price",
+    "sort_4": "sort by date",
+    "sort_5": "by popularity",
+    "sort_6": "by price",
+    "searchPlaceholderFull": "Find courses and topics of interest",
+    "searchPlaceholder": "Подготовка к ЕГЭ, игра на гитаре, английский...courses",
+    "searchPlaceholderTransactions": "Search by date or amount",
+    "transactionsTitle": "Show transactions",
+    "transactions_1": "By payment",
+    "transactions_2": "By conclusion",
+    "transactions_3": "By top up",
+    "coursesTitle": "Show",
+    "courses_1": "All lessons and courses",
+    "courses_2": "Created by me",
+    "courses_3": "With my requests",
+    "fieldKnowledge": "Areas of interest",
+    "interestingTopics": "Topics of interest"
+  },
+  "select": {
+    "empty": "Not specified",
+    "search": "Search",
+    "searchNot": "No match found",
+    "add": "Add as new",
+    "hint": "Approval by the site administrator will be required - until this point, the new value will not be used in search and filtering."
+  },
+  "topics": {
+    "empty": "Not specified",
+    "title": "Topics editor",
+    "addNew": "add new topic",
+    "yes": "ОК", 
+    "no": "Сancel"
+  },
+  "monthArr": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+  "weekArr": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+  "hoursArr": ["hour", "hour", "hours"],
+  "minuteArr": ["minute", "minute", "minute"],
+  "classCountArr": ["class", "classes", "classes"],
+  "lessonsCountArr": ["lesson", "lesson", "lessons"],
+  "reviewsCountArr": ["review", "review", "reviews"],
+  "courseTypeArr": ["Lesson", "Consultation", "Course"],
+  "fileArr": ["file", "file", "files"],
+  "cookiesText": {
+    "text": "Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, которые обеспечивают правильную работу сайта. Благодаря им сайт работает, а мы улучшаем сервис.",
+    "btnOk": "Согласен",
+    "btnMore": "Подробнее"
+  }
+}

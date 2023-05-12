@@ -1,0 +1,15 @@
+#Authtype Basic
+#AuthName "private area"
+#AuthBasicProvider file
+#AuthUserFile /var/www/igetsmart/public_html/web/public/.htpasswd
+#Require valid-user
+
+
+RewriteEngine on
+RewriteRule ^public/(.*)$ $1 [L]
+
+# If a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Otherwise forward it to index.php
+RewriteRule . index.php

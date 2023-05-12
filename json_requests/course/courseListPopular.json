@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 90
+    },
+    {
+      "id": 2,
+      "type": 3,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "2 new applications",
+      "belonging": true,
+      "lessons": [
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        },
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        },
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 5,
+      "price": "10.00",
+      "status_bar": "Passed 2 times",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 2,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 0,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 5,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 8,
+      "type": 2,
+      "name": "Теоретические основы дизайна. Стиль. Дополнительные материалы.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 9,
+      "type": 3,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "2 new applications",
+      "belonging": true,
+      "lessons": [
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        },
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        },
+        {
+          "duration": 60,
+          "id": 1,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "Passed 2 times",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": true,
+      "duration": 60
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 4,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 2,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "name": "Theoretical foundations of design. Style. Additional materials.",
+      "rate": 5,
+      "price": "10.00",
+      "status_bar": "",
+      "belonging": false,
+      "duration": 60
+    }
+  ],
+  "_meta": {
+    "currentPage": 1,
+    "pageCount": 10,
+    "perPage": 15,
+    "totalCount": 150
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "login": "mail@mail.ru",
+  "onlySocial": true,
+  "url": "id35629879236",
+  "privacy": true,
+  "personalInfo": false,
+  "isTeacher": true,
+  "img": "/img/temp/teacher.jpeg",
+  "video": "https://youtu.be/mLYRk_1Felw",
+  "name": "Zemfira",
+  "last_name": "Ramazanova",
+  "patronymic": "Talgatovna",
+  "birth_day": "Thu Aug 26 1976 00:00:00 GMT 0700 (GMT 07:00)",
+  "location": "Russia, Republic of Bashkortostan, Ufa",
+  "time_zone": [{"label": "UTC +3","value": 16}],
+  "language": [{"label": "Russian", "value": 1}],
+  "notificationLanguage": {"label": "English", "value": 2},
+  "topics": [{"value": 1, "label": "IT"}],
+  "about": "In early 1998, Zemfira moved from her native Ufa to Moscow, where she began working with her band Zemfira on the first studio album released a year later. Since 1999, Zemfira has released six studio albums, which received considerable attention from the press and the public. Her discography also includes a B-side collection and two live albums. Her lyrical quests embodied the spiritual suffering and the search for modern youth. In 1999, the magazine Ogonyok called Zemfira \"the breaking voice of a generation.\" Throughout the singer's career, many of her songs hit the first lines of the music charts in Russia, including Arivederchi, Iskala, Traffic, Walk, We Break, and No Chances.",
+  "education": "Много образований в разных школах, институтах",
+  "experience": "100 лет по часу в день",
+  "contacts": [
+    {
+      "admin": false ,
+      "icon": "/uploads/origin/type/1/pocta.png" ,
+      "id": 1 ,
+      "main": false ,
+      "title": "Email" ,
+      "type": "email" ,
+      "value": "3ddd@m.pl" 
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "title": "Facebook",
+      "tied": true,
+      "text": "Account tied",
+      "url": "/social/add?authclient=facebook"
+    },
+    {
+      "id": 2,
+      "title": "VK",
+      "tied": false,
+      "text": "Account not linked",
+      "url": "/social/add?authclient=vkontakte"
+    }
+  ]
+}
