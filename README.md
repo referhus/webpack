@@ -1,4 +1,4 @@
-# jt_components
+# сборка на 12 версии  Node.js (задание на понижение версии Node.js)
 
 > A Vue.js project
 
